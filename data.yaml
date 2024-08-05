@@ -1,0 +1,5 @@
+names:
+  - grapes
+nc: 1
+train: /home/admin/ml_model/train
+val: /home/admin/ml_model/valid
